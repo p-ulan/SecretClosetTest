@@ -1,3 +1,2 @@
 # SecretClosetTest
-Test for the SecretCloset app
-For this test i use HTC U11 on android 9.0 
+For this test I use HTC U11 on android 9.0 
